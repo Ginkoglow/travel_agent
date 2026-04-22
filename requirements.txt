@@ -1,0 +1,26 @@
+# Core Framework
+langgraph>=1.0.7
+openai
+
+# UI Framework
+flet>=0.84.0
+flet-mobile-preview
+
+# API Framework
+fastapi
+uvicorn
+
+# Vector Database
+chromadb
+faiss-cpu
+
+# Document Parsing
+pypdf
+python-docx
+pytesseract
+pillow
+openpyxl
+
+# Environment & Utils
+python-dotenv
+pymysql
